@@ -1,0 +1,997 @@
+# depslib dependency file v1.0
+1505150044 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\src\interfaz.cpp
+	"Interfaz.h"
+
+1505150102 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\include\interfaz.h
+	<iostream>
+
+1505150768 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\src\pasillos.cpp
+	"Pasillos.h"
+
+1505150733 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\include\pasillos.h
+	<iostream>
+
+1505170478 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\src\productos.cpp
+	"Productos.h"
+
+1505170326 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\include\productos.h
+	<iostream>
+
+1505175062 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\main.cpp
+	"pilaProductos.h"
+	"Interfaz.h"
+
+1505170145 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\src\listapasillos.cpp
+	"ListaPasillos.h"
+
+1505170121 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\include\listapasillos.h
+	"NodoPasillo.h"
+
+1505170121 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\include\nodopasillo.h
+	"Pasillos.h"
+
+1505170152 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\src\nodopasillo.cpp
+	"NodoPasillo.h"
+
+1505175023 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\src\pilaproductos.cpp
+	"pilaProductos.h"
+
+1505175077 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\supermercado\include\pilaproductos.h
+	"Productos.h"
+
+1505788064 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\main.cpp
+	"pilaProductos.h"
+	"Interfaz.h"
+	"ListaProducto.h"
+	"ListaCDP.h"
+
+1505175077 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\include\pilaproductos.h
+	"Productos.h"
+
+1505788064 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\include\productos.h
+	<iostream>
+
+1505150102 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\include\interfaz.h
+	<iostream>
+
+1505150044 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\src\interfaz.cpp
+	"Interfaz.h"
+
+1505779818 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\src\listapasillos.cpp
+	"ListaPasillos.h"
+
+1505780529 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\include\listapasillos.h
+	"NodoPasillo.h"
+
+1505781027 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\include\nodopasillo.h
+	"Pasillos.h"
+
+1505150733 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\include\pasillos.h
+	<iostream>
+
+1505778966 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\src\nodopasillo.cpp
+	"NodoPasillo.h"
+
+1505150768 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\src\pasillos.cpp
+	"Pasillos.h"
+
+1505175272 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\src\pilaproductos.cpp
+	"pilaProductos.h"
+
+1505788064 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\src\productos.cpp
+	"Productos.h"
+
+1505783207 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\src\listaproducto.cpp
+	"ListaProducto.h"
+
+1505782684 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\include\listaproducto.h
+	"nodoProducto.h"
+	<sstream>
+
+1505780827 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\include\nodoproducto.h
+	"Productos.h"
+
+1505781565 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\src\nodoproducto.cpp
+	"nodoProducto.h"
+
+1505787911 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\src\listacdp.cpp
+	"ListaCDP.h"
+
+1505788064 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\include\listacdp.h
+	"nodoCDP.h"
+
+1505787676 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\include\nodocdp.h
+	"Productos.h"
+
+1505785141 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado\src\nodocdp.cpp
+	"nodoCDP.h"
+
+1505150044 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\src\interfaz.cpp
+	"Interfaz.h"
+
+1505150102 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\include\interfaz.h
+	<iostream>
+
+1506809614 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\src\listapasillos.cpp
+	"ListaPasillos.h"
+
+1506806503 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\include\listapasillos.h
+	"NodoPasillo.h"
+
+1505781027 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\include\nodopasillo.h
+	"Pasillos.h"
+
+1506808090 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\include\pasillos.h
+	<iostream>
+	<sstream>
+
+1506808237 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\src\listaproducto.cpp
+	"ListaProducto.h"
+
+1506807391 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\include\listaproducto.h
+	"nodoProducto.h"
+	<sstream>
+
+1505780827 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\include\nodoproducto.h
+	"Productos.h"
+
+1506808155 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\include\productos.h
+	<iostream>
+	<sstream>
+
+1505785141 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\src\nodocdp.cpp
+	"nodoCDP.h"
+
+1506806867 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\include\nodocdp.h
+	"Productos.h"
+
+1505778966 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\src\nodopasillo.cpp
+	"NodoPasillo.h"
+
+1505781565 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\src\nodoproducto.cpp
+	"nodoProducto.h"
+
+1506808121 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\src\pasillos.cpp
+	"Pasillos.h"
+
+1505175272 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\src\pilaproductos.cpp
+	"pilaProductos.h"
+
+1505175077 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\include\pilaproductos.h
+	"Productos.h"
+
+1506808213 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\src\productos.cpp
+	"Productos.h"
+
+1506810211 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\src\listacdp.cpp
+	"ListaCDP.h"
+
+1506806874 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\include\listacdp.h
+	"nodoCDP.h"
+
+1506810027 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado4\main.cpp
+	"pilaProductos.h"
+	"Interfaz.h"
+	"ListaProducto.h"
+	"ListaPasillos.h"
+	"ListaCDP.h"
+
+1506833375 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\main.cpp
+	"pilaProductos.h"
+	"Interfaz.h"
+	"ListaProducto.h"
+	"ListaPasillos.h"
+	"ListaTipoProd.h"
+	"colaClientes.h"
+
+1505175077 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\pilaproductos.h
+	"Productos.h"
+
+1506808155 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\productos.h
+	<iostream>
+	<sstream>
+
+1505150102 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\interfaz.h
+	<iostream>
+
+1506807391 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\listaproducto.h
+	"nodoProducto.h"
+	<sstream>
+
+1505780827 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\nodoproducto.h
+	"Productos.h"
+
+1506806503 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\listapasillos.h
+	"NodoPasillo.h"
+
+1505781027 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\nodopasillo.h
+	"Pasillos.h"
+
+1506808090 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\pasillos.h
+	<iostream>
+	<sstream>
+
+1506806874 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\listacdp.h
+	"nodoCDP.h"
+
+1506806867 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\nodocdp.h
+	"Productos.h"
+
+1505150044 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\interfaz.cpp
+	"Interfaz.h"
+
+1506810211 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\listacdp.cpp
+	"ListaCDP.h"
+
+1506810277 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\listapasillos.cpp
+	"ListaPasillos.h"
+
+1506808237 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\listaproducto.cpp
+	"ListaProducto.h"
+
+1505785141 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\nodocdp.cpp
+	"nodoCDP.h"
+
+1505778966 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\nodopasillo.cpp
+	"NodoPasillo.h"
+
+1505781565 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\nodoproducto.cpp
+	"nodoProducto.h"
+
+1506808121 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\pasillos.cpp
+	"Pasillos.h"
+
+1505175272 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\pilaproductos.cpp
+	"pilaProductos.h"
+
+1506808213 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\productos.cpp
+	"Productos.h"
+
+1506810901 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\listatipoprod.cpp
+	"ListaTipoProd.h"
+
+1506811142 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\listatipoprod.h
+	"nodoTipoProd.h"
+
+1506810675 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\nodotipoprod.h
+	"Productos.h"
+
+1506810705 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\nodotipoprod.cpp
+	"nodoTipoProd.h"
+
+1506811286 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\cliente.cpp
+	"Cliente.h"
+
+1506811966 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\cliente.h
+	"ListaProducto.h"
+	<iostream>
+
+1506817595 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\src\colaclientes.cpp
+	"colaClientes.h"
+
+1506833445 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado5\include\colaclientes.h
+	"Cliente.h"
+
+1506867761 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\cliente.cpp
+	"Cliente.h"
+
+1506867761 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\cliente.h
+	"ListaProducto.h"
+	<iostream>
+
+1506807391 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\listaproducto.h
+	"nodoProducto.h"
+	<sstream>
+
+1505780827 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\nodoproducto.h
+	"Productos.h"
+
+1506808155 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\productos.h
+	<iostream>
+	<sstream>
+
+1506868132 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\colaclientes.cpp
+	"colaClientes.h"
+
+1506867996 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\colaclientes.h
+	"Cliente.h"
+
+1506870105 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\interfaz.cpp
+	"Interfaz.h"
+
+1506870105 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\interfaz.h
+	"ListaProducto.h"
+	"ListaPasillos.h"
+	"ListaTipoProd.h"
+	"pilaProductos.h"
+	"pilaCarrito.h"
+	"colaClientes.h"
+	<iostream>
+
+1506870273 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\listapasillos.cpp
+	"ListaPasillos.h"
+
+1506806503 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\listapasillos.h
+	"NodoPasillo.h"
+
+1505781027 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\nodopasillo.h
+	"Pasillos.h"
+
+1506808090 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\pasillos.h
+	<iostream>
+	<sstream>
+
+1506808237 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\listaproducto.cpp
+	"ListaProducto.h"
+
+1506870264 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\listatipoprod.cpp
+	"ListaTipoProd.h"
+
+1506811142 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\listatipoprod.h
+	"nodoTipoProd.h"
+
+1506810675 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\nodotipoprod.h
+	"Productos.h"
+
+1505778966 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\nodopasillo.cpp
+	"NodoPasillo.h"
+
+1505781565 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\nodoproducto.cpp
+	"nodoProducto.h"
+
+1506810705 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\nodotipoprod.cpp
+	"nodoTipoProd.h"
+
+1506808121 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\pasillos.cpp
+	"Pasillos.h"
+
+1506869440 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\pilaproductos.cpp
+	"pilaProductos.h"
+
+1506869672 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\pilaproductos.h
+	"Productos.h"
+
+1506808213 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\productos.cpp
+	"Productos.h"
+
+1506869899 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\main.cpp
+	"Interfaz.h"
+
+1506869672 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\src\pilacarrito.cpp
+	"pilaCarrito.h"
+
+1506869672 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6\include\pilacarrito.h
+	"Productos.h"
+
+1506867761 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\cliente.cpp
+	"Cliente.h"
+
+1506867761 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\cliente.h
+	"ListaProducto.h"
+	<iostream>
+
+1506807391 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\listaproducto.h
+	"nodoProducto.h"
+	<sstream>
+
+1505780827 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\nodoproducto.h
+	"Productos.h"
+
+1506808155 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\productos.h
+	<iostream>
+	<sstream>
+
+1506868132 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\colaclientes.cpp
+	"colaClientes.h"
+
+1506867996 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\colaclientes.h
+	"Cliente.h"
+
+1506870105 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\interfaz.cpp
+	"Interfaz.h"
+
+1506870105 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\interfaz.h
+	"ListaProducto.h"
+	"ListaPasillos.h"
+	"ListaTipoProd.h"
+	"pilaProductos.h"
+	"pilaCarrito.h"
+	"colaClientes.h"
+	<iostream>
+
+1506806503 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\listapasillos.h
+	"NodoPasillo.h"
+
+1505781027 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\nodopasillo.h
+	"Pasillos.h"
+
+1506808090 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\pasillos.h
+	<iostream>
+	<sstream>
+
+1506965131 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\listatipoprod.h
+	"Productos.h"
+
+1506883034 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\nodotipoprod.h
+	"Productos.h"
+
+1506869672 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\pilaproductos.h
+	"Productos.h"
+
+1506869672 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\include\pilacarrito.h
+	"Productos.h"
+
+1506870273 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\listapasillos.cpp
+	"ListaPasillos.h"
+
+1506808237 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\listaproducto.cpp
+	"ListaProducto.h"
+
+1506965518 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\listatipoprod.cpp
+	"ListaTipoProd.h"
+
+1505778966 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\nodopasillo.cpp
+	"NodoPasillo.h"
+
+1505781565 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\nodoproducto.cpp
+	"nodoProducto.h"
+
+1506882837 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\nodotipoprod.cpp
+	"nodoTipoProd.h"
+
+1506808121 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\pasillos.cpp
+	"Pasillos.h"
+
+1506869672 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\pilacarrito.cpp
+	"pilaCarrito.h"
+
+1506869440 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\pilaproductos.cpp
+	"pilaProductos.h"
+
+1506808213 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\src\productos.cpp
+	"Productos.h"
+
+1506964938 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado6.1\main.cpp
+	"Interfaz.h"
+
+1506867761 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\src\cliente.cpp
+	"Cliente.h"
+
+1506867761 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\include\cliente.h
+	"ListaProducto.h"
+	<iostream>
+
+1506980711 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\include\listaproducto.h
+	"nodoProducto.h"
+	<sstream>
+
+1506979036 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\include\nodoproducto.h
+	"pilaProductos.h"
+
+1506808155 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\include\productos.h
+	<iostream>
+	<sstream>
+
+1506868132 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\src\colaclientes.cpp
+	"colaClientes.h"
+
+1506867996 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\include\colaclientes.h
+	"Cliente.h"
+
+1506989220 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\src\listapasillos.cpp
+	"ListaPasillos.h"
+
+1506982434 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\include\listapasillos.h
+	"NodoPasillo.h"
+
+1506982408 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\include\nodopasillo.h
+	"ListaTipoProd.h"
+
+1506808090 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\include\pasillos.h
+	<iostream>
+	<sstream>
+
+1506982802 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\src\listaproducto.cpp
+	"ListaProducto.h"
+
+1506988852 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\src\listatipoprod.cpp
+	"ListaTipoProd.h"
+
+1506982160 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\include\listatipoprod.h
+	"ListaProducto.h"
+
+1506982427 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\src\nodopasillo.cpp
+	"NodoPasillo.h"
+
+1506977173 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\src\nodoproducto.cpp
+	"nodoProducto.h"
+
+1506808121 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\src\pasillos.cpp
+	"Pasillos.h"
+
+1506869672 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\src\pilacarrito.cpp
+	"pilaCarrito.h"
+
+1506869672 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\include\pilacarrito.h
+	"Productos.h"
+
+1506977737 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\src\pilaproductos.cpp
+	"pilaProductos.h"
+
+1506987028 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\include\pilaproductos.h
+	"Productos.h"
+
+1506808213 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\src\productos.cpp
+	"Productos.h"
+
+1506986069 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\main.cpp
+	"Interfaz.h"
+
+1506969960 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\include\interfaz.h
+	"ListaProducto.h"
+	"ListaPasillos.h"
+	"ListaTipoProd.h"
+	"pilaProductos.h"
+	"pilaCarrito.h"
+	"colaClientes.h"
+	"windows.h"
+	<iostream>
+
+1506989254 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 7\src\interfaz.cpp
+	"Interfaz.h"
+
+1507003655 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\main.cpp
+	"Interfaz.h"
+
+1507005174 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\include\interfaz.h
+	"ListaProducto.h"
+	"ListaPasillos.h"
+	"ListaTipoProd.h"
+	"pilaProductos.h"
+	"pilaCarrito.h"
+	"colaClientes.h"
+	"windows.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<time.h>
+
+1506994024 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\include\listaproducto.h
+	"nodoProducto.h"
+	<sstream>
+
+1506979036 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\include\nodoproducto.h
+	"pilaProductos.h"
+
+1506994093 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\include\pilaproductos.h
+	"Productos.h"
+
+1506808155 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\include\productos.h
+	<iostream>
+	<sstream>
+
+1506991394 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\include\listapasillos.h
+	"NodoPasillo.h"
+	"Productos.h"
+
+1506982408 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\include\nodopasillo.h
+	"ListaTipoProd.h"
+
+1506991234 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\include\listatipoprod.h
+	"ListaProducto.h"
+
+1506869672 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\include\pilacarrito.h
+	"Productos.h"
+
+1506867996 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\include\colaclientes.h
+	"Cliente.h"
+
+1507002507 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\include\cliente.h
+	"ListaProducto.h"
+	<iostream>
+	<fstream>
+
+1507002568 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\src\cliente.cpp
+	"Cliente.h"
+
+1507001051 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\src\colaclientes.cpp
+	"colaClientes.h"
+
+1507005074 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\src\listapasillos.cpp
+	"ListaPasillos.h"
+
+1506998815 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\src\listaproducto.cpp
+	"ListaProducto.h"
+
+1506988852 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\src\listatipoprod.cpp
+	"ListaTipoProd.h"
+
+1506982427 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\src\nodopasillo.cpp
+	"NodoPasillo.h"
+
+1506977173 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\src\nodoproducto.cpp
+	"nodoProducto.h"
+
+1506808121 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\src\pasillos.cpp
+	"Pasillos.h"
+
+1506808090 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\include\pasillos.h
+	<iostream>
+	<sstream>
+
+1506869672 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\src\pilacarrito.cpp
+	"pilaCarrito.h"
+
+1506994093 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\src\pilaproductos.cpp
+	"pilaProductos.h"
+
+1507003325 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\src\productos.cpp
+	"Productos.h"
+
+1507005174 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\proyecto 1\supermercado 8\src\interfaz.cpp
+	"Interfaz.h"
+
+1507003656 source:i:\estructuras de datos\proyecto 1 supermercado\main.cpp
+	"Interfaz.h"
+
+1507005176 i:\estructuras de datos\proyecto 1 supermercado\include\interfaz.h
+	"ListaProducto.h"
+	"ListaPasillos.h"
+	"ListaTipoProd.h"
+	"pilaProductos.h"
+	"pilaCarrito.h"
+	"colaClientes.h"
+	"windows.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<time.h>
+
+1506994026 i:\estructuras de datos\proyecto 1 supermercado\include\listaproducto.h
+	"nodoProducto.h"
+	<sstream>
+
+1506979038 i:\estructuras de datos\proyecto 1 supermercado\include\nodoproducto.h
+	"pilaProductos.h"
+
+1507040368 i:\estructuras de datos\proyecto 1 supermercado\include\pilaproductos.h
+	"Productos.h"
+
+1506808156 i:\estructuras de datos\proyecto 1 supermercado\include\productos.h
+	<iostream>
+	<sstream>
+
+1506991396 i:\estructuras de datos\proyecto 1 supermercado\include\listapasillos.h
+	"NodoPasillo.h"
+	"Productos.h"
+
+1506982410 i:\estructuras de datos\proyecto 1 supermercado\include\nodopasillo.h
+	"ListaTipoProd.h"
+
+1506991236 i:\estructuras de datos\proyecto 1 supermercado\include\listatipoprod.h
+	"ListaProducto.h"
+
+1507041418 i:\estructuras de datos\proyecto 1 supermercado\include\pilacarrito.h
+	"Productos.h"
+
+1506867998 i:\estructuras de datos\proyecto 1 supermercado\include\colaclientes.h
+	"Cliente.h"
+
+1507002508 i:\estructuras de datos\proyecto 1 supermercado\include\cliente.h
+	"ListaProducto.h"
+	<iostream>
+	<fstream>
+
+1507002570 source:i:\estructuras de datos\proyecto 1 supermercado\src\cliente.cpp
+	"Cliente.h"
+
+1507001052 source:i:\estructuras de datos\proyecto 1 supermercado\src\colaclientes.cpp
+	"colaClientes.h"
+
+1507043230 source:i:\estructuras de datos\proyecto 1 supermercado\src\interfaz.cpp
+	"Interfaz.h"
+
+1507005076 source:i:\estructuras de datos\proyecto 1 supermercado\src\listapasillos.cpp
+	"ListaPasillos.h"
+
+1506998816 source:i:\estructuras de datos\proyecto 1 supermercado\src\listaproducto.cpp
+	"ListaProducto.h"
+
+1506988854 source:i:\estructuras de datos\proyecto 1 supermercado\src\listatipoprod.cpp
+	"ListaTipoProd.h"
+
+1506982428 source:i:\estructuras de datos\proyecto 1 supermercado\src\nodopasillo.cpp
+	"NodoPasillo.h"
+
+1506977174 source:i:\estructuras de datos\proyecto 1 supermercado\src\nodoproducto.cpp
+	"nodoProducto.h"
+
+1506808122 source:i:\estructuras de datos\proyecto 1 supermercado\src\pasillos.cpp
+	"Pasillos.h"
+
+1506808092 i:\estructuras de datos\proyecto 1 supermercado\include\pasillos.h
+	<iostream>
+	<sstream>
+
+1507041418 source:i:\estructuras de datos\proyecto 1 supermercado\src\pilacarrito.cpp
+	"pilaCarrito.h"
+
+1507040368 source:i:\estructuras de datos\proyecto 1 supermercado\src\pilaproductos.cpp
+	"pilaProductos.h"
+
+1507003326 source:i:\estructuras de datos\proyecto 1 supermercado\src\productos.cpp
+	"Productos.h"
+
+1507003656 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\main.cpp
+	"Interfaz.h"
+
+1507005176 i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\include\interfaz.h
+	"ListaProducto.h"
+	"ListaPasillos.h"
+	"ListaTipoProd.h"
+	"pilaProductos.h"
+	"pilaCarrito.h"
+	"colaClientes.h"
+	"windows.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<time.h>
+
+1506994026 i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\include\listaproducto.h
+	"nodoProducto.h"
+	<sstream>
+
+1506979038 i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\include\nodoproducto.h
+	"pilaProductos.h"
+
+1507040368 i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\include\pilaproductos.h
+	"Productos.h"
+
+1506808156 i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\include\productos.h
+	<iostream>
+	<sstream>
+
+1506991396 i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\include\listapasillos.h
+	"NodoPasillo.h"
+	"Productos.h"
+
+1506982410 i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\include\nodopasillo.h
+	"ListaTipoProd.h"
+
+1506991236 i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\include\listatipoprod.h
+	"ListaProducto.h"
+
+1507041418 i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\include\pilacarrito.h
+	"Productos.h"
+
+1506867998 i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\include\colaclientes.h
+	"Cliente.h"
+
+1507002508 i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\include\cliente.h
+	"ListaProducto.h"
+	<iostream>
+	<fstream>
+
+1507002570 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\src\cliente.cpp
+	"Cliente.h"
+
+1507001052 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\src\colaclientes.cpp
+	"colaClientes.h"
+
+1507043230 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\src\interfaz.cpp
+	"Interfaz.h"
+
+1507005076 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\src\listapasillos.cpp
+	"ListaPasillos.h"
+
+1506998816 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\src\listaproducto.cpp
+	"ListaProducto.h"
+
+1506988854 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\src\listatipoprod.cpp
+	"ListaTipoProd.h"
+
+1506982428 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\src\nodopasillo.cpp
+	"NodoPasillo.h"
+
+1506977174 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\src\nodoproducto.cpp
+	"nodoProducto.h"
+
+1506808122 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\src\pasillos.cpp
+	"Pasillos.h"
+
+1506808092 i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\include\pasillos.h
+	<iostream>
+	<sstream>
+
+1507041418 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\src\pilacarrito.cpp
+	"pilaCarrito.h"
+
+1507040368 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\src\pilaproductos.cpp
+	"pilaProductos.h"
+
+1507003326 source:i:\estructuras de datos\p1 yenifer y josue\proyecto 1 supermercado\src\productos.cpp
+	"Productos.h"
+
+1507003656 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\main.cpp
+	"Interfaz.h"
+
+1507005176 c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\include\interfaz.h
+	"ListaProducto.h"
+	"ListaPasillos.h"
+	"ListaTipoProd.h"
+	"pilaProductos.h"
+	"pilaCarrito.h"
+	"colaClientes.h"
+	"windows.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<time.h>
+
+1506994026 c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\include\listaproducto.h
+	"nodoProducto.h"
+	<sstream>
+
+1506979038 c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\include\nodoproducto.h
+	"pilaProductos.h"
+
+1507040368 c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\include\pilaproductos.h
+	"Productos.h"
+
+1506808156 c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\include\productos.h
+	<iostream>
+	<sstream>
+
+1506991396 c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\include\listapasillos.h
+	"NodoPasillo.h"
+	"Productos.h"
+
+1506982410 c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\include\nodopasillo.h
+	"ListaTipoProd.h"
+
+1506991236 c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\include\listatipoprod.h
+	"ListaProducto.h"
+
+1507041418 c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\include\pilacarrito.h
+	"Productos.h"
+
+1506867998 c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\include\colaclientes.h
+	"Cliente.h"
+
+1507002508 c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\include\cliente.h
+	"ListaProducto.h"
+	<iostream>
+	<fstream>
+
+1507002570 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\src\cliente.cpp
+	"Cliente.h"
+
+1507001052 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\src\colaclientes.cpp
+	"colaClientes.h"
+
+1507043230 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\src\interfaz.cpp
+	"Interfaz.h"
+
+1507005076 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\src\listapasillos.cpp
+	"ListaPasillos.h"
+
+1506998816 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\src\listaproducto.cpp
+	"ListaProducto.h"
+
+1506988854 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\src\listatipoprod.cpp
+	"ListaTipoProd.h"
+
+1506982428 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\src\nodopasillo.cpp
+	"NodoPasillo.h"
+
+1506977174 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\src\nodoproducto.cpp
+	"nodoProducto.h"
+
+1506808122 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\src\pasillos.cpp
+	"Pasillos.h"
+
+1506808092 c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\include\pasillos.h
+	<iostream>
+	<sstream>
+
+1507041418 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\src\pilacarrito.cpp
+	"pilaCarrito.h"
+
+1507040368 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\src\pilaproductos.cpp
+	"pilaProductos.h"
+
+1507003326 source:c:\users\estudiante\desktop\p1 yenifer y josue\proyecto 1 supermercado\src\productos.cpp
+	"Productos.h"
+
+1507003656 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\main.cpp
+	"Interfaz.h"
+
+1507005176 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\include\interfaz.h
+	"ListaProducto.h"
+	"ListaPasillos.h"
+	"ListaTipoProd.h"
+	"pilaProductos.h"
+	"pilaCarrito.h"
+	"colaClientes.h"
+	"windows.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<time.h>
+
+1506994026 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\include\listaproducto.h
+	"nodoProducto.h"
+	<sstream>
+
+1506979038 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\include\nodoproducto.h
+	"pilaProductos.h"
+
+1507040368 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\include\pilaproductos.h
+	"Productos.h"
+
+1506808156 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\include\productos.h
+	<iostream>
+	<sstream>
+
+1506991396 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\include\listapasillos.h
+	"NodoPasillo.h"
+	"Productos.h"
+
+1506982410 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\include\nodopasillo.h
+	"ListaTipoProd.h"
+
+1506991236 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\include\listatipoprod.h
+	"ListaProducto.h"
+
+1507041418 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\include\pilacarrito.h
+	"Productos.h"
+
+1506867998 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\include\colaclientes.h
+	"Cliente.h"
+
+1507002508 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\include\cliente.h
+	"ListaProducto.h"
+	<iostream>
+	<fstream>
+
+1507002570 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\src\cliente.cpp
+	"Cliente.h"
+
+1507001052 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\src\colaclientes.cpp
+	"colaClientes.h"
+
+1507043230 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\src\interfaz.cpp
+	"Interfaz.h"
+
+1507005076 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\src\listapasillos.cpp
+	"ListaPasillos.h"
+
+1506998816 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\src\listaproducto.cpp
+	"ListaProducto.h"
+
+1506988854 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\src\listatipoprod.cpp
+	"ListaTipoProd.h"
+
+1506982428 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\src\nodopasillo.cpp
+	"NodoPasillo.h"
+
+1506977174 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\src\nodoproducto.cpp
+	"nodoProducto.h"
+
+1506808122 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\src\pasillos.cpp
+	"Pasillos.h"
+
+1506808092 c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\include\pasillos.h
+	<iostream>
+	<sstream>
+
+1507041418 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\src\pilacarrito.cpp
+	"pilaCarrito.h"
+
+1507040368 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\src\pilaproductos.cpp
+	"pilaProductos.h"
+
+1507003326 source:c:\users\yenny\documents\una\2017 iic\estructuras de datos c++\p1 yenifer y josue\proyecto 1 supermercado\src\productos.cpp
+	"Productos.h"
+
